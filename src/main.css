@@ -1,0 +1,452 @@
+.logo{
+    height: 80px;
+    width: 80px;
+}
+.shadow{
+    box-shadow: 10px 5px 5px grey;
+}
+.sidebar{
+        height: 100%;
+        width: 220px;
+        background-color: white;
+        border: 1px solid #707070;
+        font-size: 12px;
+}
+.sidebar1{
+    height: 100%;
+    width: 220px;
+    background-color: white;
+    border: 1px solid #707070;
+    font-size: 12px;
+}
+.sidebar6{
+    height: 100%;
+    width: 220px;
+    background-color: white;
+    border: 1px solid #707070;
+    font-size: 12px;
+}
+.bg4{
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+.Dean-circle{
+    height: 200px;
+    width: 200px;
+    border: 4px solid #72A165;
+    background-color: #84BD74;
+    border-radius: 50%;
+    display: inline-block;
+  }
+.Student-circle {
+    height: 220px;
+    width: 220px;
+    border: 4px solid #364446;
+    background-color: #476367;
+    border-radius: 50%;
+    display: inline-block;
+  }
+.Teacher-circle {
+    height: 210px;
+    width: 210px;
+    border: 4px solid #873228;
+    background-color: #BA4437;
+    border-radius: 50%;
+    display: inline-block;
+  }
+.Admin-circle {
+    height: 210px;
+    width: 210px;
+    border: 4px solid #BDA338;
+    background-color: #DFC142;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .bg{
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: min-content;
+    padding-bottom: 42px;
+
+}
+.NavbarIMG{
+  min-height: 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.signinbox {
+    height: max-content;
+    width: 45%;
+    padding-top: 4% ;
+    padding-bottom: 4.1%;
+    background-color:white;
+    border-radius: 20%;
+    display: inline-block;
+    opacity: 0.86;
+
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+  }
+  .textshadow{
+    text-shadow: 2px 2px gray;
+  }
+  .bg1{
+    background-size: 200px;
+    background-attachment: fixed;
+
+}
+.signinboxdean {
+    width: 1000px;
+    height: 500px;
+    display: inline-block;
+    padding: 100px;
+    
+    border: 4px solid #707070;
+    background-color: #B1B3B7;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+    opacity: 0.95;
+
+  }
+.signinboxteacher {
+    width: 1000px;
+    height: 500px;
+    display: inline-block;
+    padding: 100px;
+    background-color:#B1B3B7;
+    border: #707070 1px solid;
+
+  }
+  .logo{
+    height: 80px;
+    width: 80px;
+
+}
+.shadow{
+    box-shadow: 10px 5px 5px grey;
+}
+.sidebar2{
+        height: 566px;
+        width: 220px;
+        background-color: white;
+        border: 1px solid #707070;
+        font-size: 12px;
+}
+.body{
+    color: black;
+    text-align: left;
+    padding-left: 30px;
+}
+.notification{
+    height: auto;
+    width: 900px;
+    background-color: white;
+    border-radius: 35px;    
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+
+}
+.teachernotification{
+    height: 485px;
+    width: 900px;
+    background-color: white;
+    border-radius: 35px;    
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+}
+.teacherAnnouncement{
+    height: max-content;
+    width: 750px;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    margin-bottom: 12px;
+    margin-top: 13px;
+    border: black 1px solid;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+    opacity: 0.70;
+}
+.Teachernotification{
+    height: auto;
+    width: 550px;
+    background-color: white;
+    border-radius: 35px;    
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+
+}
+.Announcements{
+    height: 460px;
+    width: 80%;
+    display: inline-block;
+    padding-bottom: 17px;
+    margin-bottom: 27px;
+    background-color: white;
+    border-radius: 35px;
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+
+}
+.Verify{
+    height: 460px;
+    width: 80%;
+    display: inline-block;
+    padding-bottom: 30px;
+    margin-bottom: 37px;
+    margin-top: 38px;
+    background-color: white;
+    border-radius: 35px;
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+}
+.Verifydean{
+    height: 460px;
+    width: 70%;
+    display: inline-block;
+    margin-top: 34px;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+    background-color: white;
+    border-radius: 35px;
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+}
+.sidebarhide{
+    height: 566px;
+    width: 20px;
+    background-color: white;
+    border: 1px solid #707070;
+    font-size: 12px;
+}
+.fridaytimetable
+{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    border-radius: 0px 0px 35px 35px;
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+    color: black;
+    text-align: left;
+    padding-left: 30px;
+}
+.TimeTable{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    border-radius: 35px 35px 0px 0px;
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+
+}
+.Services{
+    height: 450px;
+    width: 900px;
+    background-color: #3C315F;
+    border-radius: 10px 10px 10px 10px;
+    border: black 1px solid;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+    opacity: 0.70;
+}
+
+.DeanServices{
+    height: 450px;
+    width: 1100px;
+    background-color: #3C315F;
+    border-radius: 10px 10px 10px 10px;
+    border: black 1px solid;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+    opacity: 0.70;
+}
+.EmptyBox{
+    height: 250px;
+    width: 600px;
+    background-color: #3C315F;
+    color: azure;
+    border: black 2px solid;
+    text-align: left;
+}
+.EditBox{
+    height: max-content;
+    width: 800px;
+    padding-bottom: 20px;
+    background-color: #3C315F;
+    color: azure;
+    border: black 2px solid;
+    text-align: left;
+}
+.EditBox2{
+    height: max-content;
+    width: 650px;
+    padding-bottom: 20px;
+    background-color: #3C315F;
+    color: azure;
+    border: black 2px solid;
+    text-align: left;
+}
+
+.Services1{
+    height: max-content;
+    width: 950px;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    margin-bottom: 12px;
+    margin-top: 13px;
+    border: black 1px solid;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+    opacity: 0.70;
+}
+.TimeTablebody{
+    color: black;
+    text-align: left;
+    padding-left: 30px;
+}
+.bg2{
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.bg3{
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+.bg5{
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.CourseOutline{
+    height: 100%;
+    width: 99%;
+    color: black;
+    text-align: left;
+    display: inline-block;
+    padding-left: 30px;
+    background-color: white;
+    border-radius: 35px;
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+}
+.CourseMaterial{
+    height: max-content;
+    width: 99%;
+    color: black;
+    text-align: left;
+    padding-left: 30px;
+    padding-bottom: 247px;
+    margin-bottom: 0em;
+    display: block;
+    background-color: white;
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+}
+.GradeBook{
+    height: 535px;
+    width: 98%;
+    color: black;
+    text-align: left;
+    padding-left: 30px;
+    display: block;
+    background-color: white;
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+}
+.expandtabs{
+    height: 25px;
+    width: 150px;
+    color: white;
+    padding-left: 10px;
+    background-color: #F50F0F;
+    border-radius: 50px 50px 50px 50px;
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+}
+
+.Transcript{
+    height: auto;
+    width: 98%;
+    display: block;
+    color: black;
+    text-align: left;
+    padding-left: 30px;
+    background-color: white;
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+}
+.PersonalInformation{
+    height: 100%;
+    width: 800px;
+    display: inline-block;
+    background-color: white;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 30px;
+    border-radius: 35px;
+    border: black 1px solid;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    opacity: 0.86;
+}
+.SetWeightage{
+    height: max-content;
+    width: 600px;
+    display: inline-block;
+    background-color: white;
+    text-align: left;
+    padding-left: 30px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    border: black 1px solid;
+
+}
+.ViewList{
+    height: 94%;
+    width: 100%;
+    display: inline-block;
+    margin-top: 17px;
+    margin-bottom: 16px;
+    background-color: white;
+    text-align: left;
+    padding-left: 30px;
+    border: black 1px solid;
+
+}
+.AddList{
+    height: 535px;
+    width: 800px;
+    padding-top: 20px;
+    display: inline-block;
+    background-color: white;
+    text-align: left;
+    padding-left: 30px;
+    border: black 1px solid;
+}
+.AdminSigninPage{
+    
+    width: 1000px;
+    height: 500px;
+    display: inline-block;
+    padding: 100px;
+    
+    border: 4px solid #707070;
+    background-color: #B1B3B7;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+    opacity: 0.95;
+}
